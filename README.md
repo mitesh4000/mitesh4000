@@ -2,11 +2,7 @@
 
 🔭 I’m currently working on
 
-*Invade*
-  - Multiplayer Online Battle Arena (MOBA) game.
-  - customise your tank acording to your need and play with your friends. 
-
-🌱 I’m currently learning AI and block chain 
+# nothing
 
 
 
