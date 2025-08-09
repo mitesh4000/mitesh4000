@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-🔭 I’m currently working on
-
-# nothing
-
-
-
-
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=mitesh4000&utm_content=line">
   <img
